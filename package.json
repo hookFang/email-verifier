@@ -1,0 +1,19 @@
+{
+  "name": "@hookfang/email-verifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hookFang/email-verifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hookFang/email-verifier/issues"
+  },
+  "homepage": "https://github.com/hookFang/email-verifier#readme"
+}
