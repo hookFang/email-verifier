@@ -1,6 +1,6 @@
 {
   "name": "@hookfang/email-verifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/hookFang/email-verifier.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Edwin Christie <edwinchristie100@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hookFang/email-verifier/issues"
   },
